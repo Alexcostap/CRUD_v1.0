@@ -24,5 +24,5 @@
 
 ## Uso do video
 <br>
-<video src="funcional.webm" controls="controls">Uso do programa</video>
-https://user-images.githubusercontent.com/102334175/204621849-88d65660-d2db-4f6f-b301-6c1f69b71b2c.webm
+<video src="https://user-images.githubusercontent.com/102334175/204621849-88d65660-d2db-4f6f-b301-6c1f69b71b2c.webm" controls="controls">Uso do programa</video>
+
